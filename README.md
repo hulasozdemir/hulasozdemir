@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ulas Ozdemir</h1>
 <h3 align="center">I'm a physicist/data scientist based in Canada.</h3>
 
-- 🌱 I’m currently learning **Spark**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hulasozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="hulasozdemir" /> </p>
+
+- 🌱 I’m currently learning **Spark**, **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hulasozdemir](https://github.com/hulasozdemir)
 
