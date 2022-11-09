@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spark**, **AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hulasozdemir](https://github.com/hulasozdemir)
+- 👨‍💻 All of my projects are available at [https://github.com/hulasozdemir and https://public.tableau.com/app/profile/ulas.ozdemir](https://github.com/hulasozdemir and https://public.tableau.com/app/profile/ulas.ozdemir)
 
 - 💬 Ask me about **Superconductors and Data science**
 
@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ulas-ozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ulas-ozdemir" height="30" width="40" /></a>
+<a href="https://kaggle.com/ulasozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ulasozdemir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
