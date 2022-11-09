@@ -14,7 +14,6 @@
 <a href="https://public.tableau.com/app/profile/ulas.ozdemir" target="blank"><img align="center" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" alt="ulas.ozdemir" height="70" width="200" /></a>
 </p>
 
-[My Tableau Public Profile](https://public.tableau.com/app/profile/ulas.ozdemir)
 
 
 <h3 align="left">Languages and Tools:</h3>
